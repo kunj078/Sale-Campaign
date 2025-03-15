@@ -1,3 +1,5 @@
+# environment details
+
 # install mySQL workbanch set password and put hear 
 
 spring.datasource.url=jdbc:mysql://localhost:3306/product_management
